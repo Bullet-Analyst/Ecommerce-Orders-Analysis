@@ -36,8 +36,8 @@ UI/UX Design: Custom page navigation with bookmarks and customized button states
 Data Analytics: Time intelligence functions, Profit Margin calculations, and performance tracking against goals.
 
 📂 Repository Contents
-`Ecommerce_Orders_Dataset 2nd Project.pbix`: The main Power BI project file.
-`ecommerce_orders_dataset (1).csv`: The raw dataset used for this analysis.
+[Ecommerce_Orders_Dataset 2nd Project.pbix](Ecommerce_Orders_Dataset%202nd%20Project.pbix): The main Power BI project file.
+[ecommerce_orders_dataset (1).csv](ecommerce_orders_dataset%20(1).csv): The raw dataset used for this analysis.
 Dashboard Screenshots: High-resolution images of all report pages.
 
 
